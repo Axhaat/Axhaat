@@ -3,7 +3,7 @@
 ### Android Developer
 
 - 🔭 I’m currently looking for some interesting projects to work on!
-- 🌱 I’m currently learning doing Android developement 
+- 🌱 I’m currently doing Android developement (native and flutter)
 - 👯 I’m looking to collaborate on many Open Source Projects 💖
 - 💬 Ask me about anything! 🤗
 - 📫 How to reach me: [Email me](mailto:akshatkedia915@gmail.com)
