@@ -1,6 +1,6 @@
 ### Hi there 👋
 # I am Akshat Kedia
-### Native Android Developer
+### Android Developer
 
 - 🔭 I’m currently looking for some interesting projects to work on!
 - 🌱 I’m currently learning doing Android developement 
